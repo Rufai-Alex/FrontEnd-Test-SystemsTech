@@ -20,7 +20,8 @@ Additional Information to submit a successful application:
 - Only an application with all requirements can be considered
 - Provide setup process if required
 - Copied structures or code from other applications will be completely ignored.
-  Thank you very much and have fun with the challenge!
+- 
+Thank you very much and have fun with the challenge!
 
 # Main Task
 
